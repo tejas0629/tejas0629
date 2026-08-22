@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **GenAI , LLM , RAG , VECTOR DATABASES**
 
-- Project 2 [Phishing Awareness and Detection Ststem](https://github.com/tejas0629/PHISHING-AWARENESS-AND-DETECTION-SYSTEM-.git)
-
 - 📫 How to reach me **tejasupreti2964@gmail.com**
 
 - RESUME [https://drive.google.com/drive/u/0/folders/1N6MGdowwUj-oxk6s9TCjDe1xsK5kGabb](https://drive.google.com/drive/u/0/folders/1N6MGdowwUj-oxk6s9TCjDe1xsK5kGabb)
