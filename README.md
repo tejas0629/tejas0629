@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm TEJAS UPRETI</h1>
 <h3 align="center">A passionate Generative AI Developer.</h3>
 
+- Project 1 [CarePulse](https://github.com/tejas0629/care-pulse-click-onece-skip-the-queue-.git)
+
 - 🌱 I’m currently learning **GenAI , LLM , RAG , VECTOR DATABASES**
+
+- Project 2 [Phishing Awareness and Detection Ststem](https://github.com/tejas0629/PHISHING-AWARENESS-AND-DETECTION-SYSTEM-.git)
 
 - 📫 How to reach me **tejasupreti2964@gmail.com**
 
