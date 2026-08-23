@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TEJAS UPRETI</h1>
 <h3 align="center">A passionate Generative AI Developer.</h3>
 
-- 🌱 I’m currently learning **GenAI , LLM , RAG , VECTOR DATABASES**
+- 🌱 I’m currently learning **GenAI , LLM , RAG , VECTOR DATABASES.**
 
 - 📫 How to reach me **tejasupreti2964@gmail.com**
 
