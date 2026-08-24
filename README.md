@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm TEJAS UPRETI</h1>
 <h3 align="center">A passionate Generative AI Developer.</h3>
-<img align ="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/40a9c389-a608-400e-a227-e05aacb6144f">
-](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)"
+<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas0629&label=Profile%20views&color=0e75b6&style=flat" alt="tejas0629" /> </p>
 
-- Project 1 [CarePulse](https://github.com/tejas0629/care-pulse-click-onece-skip-the-queue-.git)
-
 - 🌱 I’m currently learning **GenAI , LLM , RAG , VECTOR DATABASES**
-
-- Project 2 [Phishing Awareness and Detection Ststem](https://github.com/tejas0629/PHISHING-AWARENESS-AND-DETECTION-SYSTEM-.git)
 
 - 📫 How to reach me **tejasupreti2964@gmail.com**
 
