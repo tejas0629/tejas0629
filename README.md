@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **tejasupreti2964@gmail.com**
 
-- RESUME [https://drive.google.com/drive/u/0/folders/1N6MGdowwUj-oxk6s9TCjDe1xsK5kGabb](https://drive.google.com/drive/u/0/folders/1N6MGdowwUj-oxk6s9TCjDe1xsK5kGabb)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tejas-upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-upreti" height="30" width="40" /></a>
