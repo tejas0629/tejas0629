@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas0629&label=Profile%20views&color=0e75b6&style=flat" alt="tejas0629" /> </p>
 
+
 - 🌱 I’m currently learning **GenAI , LLM , RAG , VECTOR DATABASES**
 
 - 📫 How to reach me **tejasupreti2964@gmail.com**
