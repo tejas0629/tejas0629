@@ -18,7 +18,7 @@
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/atharvarajsinha?theme=dark&font=Mukta&ext=contest&border=0" />
+  <img src="https://leetcard.jacoblin.cool/tejasupreti920?theme=dark&font=Mukta&ext=contest&border=0" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
